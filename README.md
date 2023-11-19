@@ -26,10 +26,10 @@
     <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/SQLModel-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlmodel">
+    <img src="https://img.shields.io/badge/SQLAlchemy-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlalchemy">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
