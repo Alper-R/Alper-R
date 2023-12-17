@@ -4,7 +4,7 @@
 <h3 align="center">🌐 Socials:</h3>
 
 <p align = "center">
-  <a href ="https://www.instagram.com/f__elliot/" target="blank"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+  <a href ="https://www.instagram.com/r_apr20/" target="blank"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 </p>
 
